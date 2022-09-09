@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yangstar23.github.io/Docusaurus_web/Docusaurus_web/blog</id>
-    <title>我的网站 Blog</title>
+    <title>云南大学校园指南 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yangstar23.github.io/Docusaurus_web/Docusaurus_web/blog"/>
-    <subtitle>我的网站 Blog</subtitle>
+    <subtitle>云南大学校园指南 Blog</subtitle>
     <icon>https://yangstar23.github.io/Docusaurus_web/Docusaurus_web/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
