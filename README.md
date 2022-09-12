@@ -1,41 +1,24 @@
-# Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+# 简介
 
-### Installation
+欢迎来到云南大学校园指南,本项目旨在给新生指路
 
-```
-$ yarn
-```
+## 使用方法
 
-### Local Development
+:ear:点击侧边栏,查看你感兴趣的内容
 
-```
-$ yarn start
-```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-### Build
 
-```
-$ yarn build
-```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## 有问题or有建议
 
-### Deployment
+:hamburger:[期待你的声音](https://support.qq.com/product/431685)
 
-Using SSH:
+:dash:[GitHub_issue](https://github.com/yangstar23/Docusaurus_web/issues)
 
-```
-$ USE_SSH=true yarn deploy
-```
+## 为本项目出力
 
-Not using SSH:
+:gift:可以帮我们宣传
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+:egg:也可以投稿至邮箱:postman@yangstar.top
